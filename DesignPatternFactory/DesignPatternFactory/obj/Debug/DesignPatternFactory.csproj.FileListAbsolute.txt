@@ -1,0 +1,8 @@
+C:\Users\crais\source\repos\DesignPatternFactory\DesignPatternFactory\bin\Debug\DesignPatternFactory.exe.config
+C:\Users\crais\source\repos\DesignPatternFactory\DesignPatternFactory\bin\Debug\DesignPatternFactory.exe
+C:\Users\crais\source\repos\DesignPatternFactory\DesignPatternFactory\bin\Debug\DesignPatternFactory.pdb
+C:\Users\crais\source\repos\DesignPatternFactory\DesignPatternFactory\obj\Debug\DesignPatternFactory.csproj.AssemblyReference.cache
+C:\Users\crais\source\repos\DesignPatternFactory\DesignPatternFactory\obj\Debug\DesignPatternFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\crais\source\repos\DesignPatternFactory\DesignPatternFactory\obj\Debug\DesignPatternFactory.csproj.CoreCompileInputs.cache
+C:\Users\crais\source\repos\DesignPatternFactory\DesignPatternFactory\obj\Debug\DesignPatternFactory.exe
+C:\Users\crais\source\repos\DesignPatternFactory\DesignPatternFactory\obj\Debug\DesignPatternFactory.pdb
